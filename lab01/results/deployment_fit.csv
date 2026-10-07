@@ -1,0 +1,9 @@
+model,platform,fits
+LogisticRegression,Cloud,NO
+LogisticRegression,Edge,YES
+LogisticRegression,Mobile,NO
+LogisticRegression,TinyML,NO
+RandomForestClassifier,Cloud,NO
+RandomForestClassifier,Edge,YES
+RandomForestClassifier,Mobile,NO
+RandomForestClassifier,TinyML,NO

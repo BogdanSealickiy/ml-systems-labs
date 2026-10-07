@@ -1,0 +1,4 @@
+Dataset: Breast Cancer Wisconsin (Diagnostic) via sklearn.datasets.load_breast_cancer
+Split: 70/30 stratified, random_state=42
+Training: 1 warm-up + 5 measured runs, median reported
+Inference: 1 warm-up + 100 measured runs, median reported
