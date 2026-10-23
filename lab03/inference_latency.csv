@@ -1,0 +1,7 @@
+model,batch_size,median_latency_ms
+MLP,1,0.088
+MLP,128,1.08
+CNN,1,0.382
+CNN,128,96.25
+Attention,1,7.374
+Attention,128,27.366
